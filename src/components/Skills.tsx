@@ -3,17 +3,17 @@ export default function Skills() {
     {
       category: 'Frontend',
       color: 'text-cyan-400',
-      skills: ['JavaScript', 'TypeScript', 'React', 'Next.js', 'HTML', 'CSS', 'Tailwind CSS']
+      skills: ['JavaScript', 'React', 'Next.js', 'HTML', 'CSS', 'Tailwind CSS']
     },
     {
       category: 'Backend',
       color: 'text-purple-400',
-      skills: ['Node.js', 'Express', 'REST APIs', 'PostgreSQL']
+      skills: ['Node.js', 'Express', 'REST APIs', 'PostgreSQL', 'MongoDB']
     },
     {
       category: 'Workflow & Tools',
       color: 'text-pink-400',
-      skills: ['Git', 'GitHub', 'VS Code', 'Figma', 'Linux']
+      skills: ['Git', 'GitHub', 'Docker', 'Postman']
     }
   ];
 

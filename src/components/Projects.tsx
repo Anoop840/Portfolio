@@ -4,10 +4,10 @@ export default function Projects() {
   const projects = [
     {
       icon: Code2,
-      title: 'DevNotes',
-      description: 'A personal knowledge base to organize code snippets and notes with full-text search.',
-      tags: ['Next.js', 'Node.js', 'PostgreSQL'],
-      link: '#',
+      title: 'ThinkBoard',
+      description: 'A notes taking application in which we can store our own notes.',
+      tags: ['React.js','Node.js','Express.js','MongoDB'],
+      link: 'https://github.com/Anoop840/Thinkboard',
       // highlight: true
     },
     {
